@@ -1,0 +1,8 @@
+ls -l
+ls
+ps
+date
+dir
+whoami
+echo Ciao mondo
+shutdown

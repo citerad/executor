@@ -1,0 +1,6 @@
+help
+comando non valido
+pwd
+mkdir prova
+rmdir prova
+abort
